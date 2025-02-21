@@ -4,7 +4,7 @@
            xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" 
            xsi:type="MailApp">
 
-  <Id>your-guid-here</Id>
+  <Id>938a2ade-3c65-4646-9ff9-3f6f7bee569b</Id>
   <Version>1.0.0.0</Version>
   <ProviderName>Your Company</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
