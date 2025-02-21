@@ -6,12 +6,12 @@
 
   <Id>938a2ade-3c65-4646-9ff9-3f6f7bee569b</Id>
   <Version>1.0.0.0</Version>
-  <ProviderName>Your Company</ProviderName>
-  <DefaultLocale>en-US</DefaultLocale>
+  <ProviderName>Carvalho E Furtado</ProviderName>
+  <DefaultLocale>pt-BR</DefaultLocale>
   <DisplayName DefaultValue="DocuSeal Add-in"/>
   <Description DefaultValue="An Outlook add-in to consume DocuSeal API"/>
-  <IconUrl DefaultValue="https://yourdomain.com/assets/icon.png"/>
-  <SupportUrl DefaultValue="https://yourdomain.com/support"/>
+  <IconUrl DefaultValue="https://paollosc.github.io/assets/icon.png"/>
+  <SupportUrl DefaultValue="https://paollosc.github.io/support"/>
 
   <Hosts>
     <Host Name="Mailbox"/>
@@ -26,7 +26,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://yourdomain.com/index.html"/>
+        <SourceLocation DefaultValue="https://desktop.github.com/lang/pt-BR"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
